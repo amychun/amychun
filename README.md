@@ -2,6 +2,7 @@
 
 A versatile professional proficient in both 👩🏻‍💻software engineering👩🏻‍💻 and ✨graphic design✨, currently seeking opportunities in front-end development.
 
+
 ---
 ### Language, Libraries, Softwares and Tools
 <div>
@@ -18,15 +19,15 @@ A versatile professional proficient in both 👩🏻‍💻software engineering�
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" **alt="Sequelize" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>&nbsp;
-</div>
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" **alt="Illustrator" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
 </div>
+
+
 ---
 ### Some fact about me
+
 - 🔭 I’m currently working on creating my **portfolio website** - it's going to be amazing 🙌
 - 🌱 I’m currently learning **Data Structure and Algorithms** and having so much fun teasing my brain 🧠
 - 👯 I’m looking to collaborate on any **interesting projects** 📁
