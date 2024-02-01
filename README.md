@@ -3,7 +3,7 @@
 A versatile professional proficient in both 👩🏻‍💻software engineering👩🏻‍💻 and ✨graphic design✨, currently seeking opportunities in front-end development.
 
 ---
-### Language, Libraries and Tools
+### Language, Libraries, Softwares and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -18,9 +18,11 @@ A versatile professional proficient in both 👩🏻‍💻software engineering�
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" **alt="Sequelize" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>&nbsp;
+</div>
 ---
 ### Some fact about me
 - 🔭 I’m currently working on creating my **portfolio website** - it's going to be amazing 🙌
