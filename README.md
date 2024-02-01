@@ -26,10 +26,11 @@ A versatile professional proficient in both 👩🏻‍💻software engineering�
 
 
 ---
-### Some fact about me
+### Some facts about me
 
 - 🔭 I’m currently working on creating my **portfolio website** - it's going to be amazing 🙌
 - 🌱 I’m currently learning **Data Structure and Algorithms** and having so much fun teasing my brain 🧠
 - 👯 I’m looking to collaborate on any **interesting projects** 📁
 - 🤔 I’m looking for help with landing on a **job**
+- 📍 I'm originally from **Korea** 🇰🇷 currently living in **LA** 🌴
 - 💁🏻‍♀️ I'm most interested in my **cat** 🐈‍⬛ and a good cup of pour over **coffee** ☕️
