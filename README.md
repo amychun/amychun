@@ -19,12 +19,11 @@ A versatile professional proficient in both 👩🏻‍💻software engineering�
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" **alt="Sequelize" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Data Structure and Algorithms and having so much fun!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: amychun@msn.com
-- Of course, I have a **cat** 🐈‍⬛ and in love with pour over **coffee** ☕️
+---
+### Some fact about me
+- 🔭 I’m currently working on creating my **portfolio website** - it's going to be amazing 🙌
+- 🌱 I’m currently learning **Data Structure and Algorithms** and having so much fun teasing my brain 🧠
+- 👯 I’m looking to collaborate on any **interesting projects** 📁
+- 🤔 I’m looking for help with landing on a **job**
+- 💁🏻‍♀️ I'm most interested in my **cat** 🐈‍⬛ and a good cup of pour over **coffee** ☕️
